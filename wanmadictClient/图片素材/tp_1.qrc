@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="图片素材">
+    <file>lsbj.jpg</file>
+    <file>wdcx.png</file>
+    <file>jt.png</file>
+    <file>hy.jpg</file>
+    <file>l4.jpg</file>
+    <file>l3.png</file>
+    <file>l2.png</file>
+    <file>l1.png</file>
+    <file>rgfy1.png</file>
+    <file>jpk1.png</file>
+    <file>dcb1.png</file>
+    <file>dccx.png</file>
+    <file>dccx.png</file>
+    <file>wmcd.png</file>
+    <file>gtl1.jpg</file>
+    <file>cxc.jpg</file>
+    <file>zzh.jpg</file>
+    <file>gtl.jpg</file>
+    <file>timg.png</file>
+  </qresource>
+</RCC>
